@@ -6,7 +6,7 @@ Full description and instruction manual coming soon...
 Three version available:
 
 1. LID version: for the automatic implementation of LIDs into hydrodynamic model.
-2. Recession version: includes implementation of GebreEgziabher et al., 2020 for manhole recession
+2. Recession version: includes implementation of GebreEgziabher et al., 2020 (https://www.mdpi.com/2073-4441/12/4/1160) for manhole recession
 3. FLood barrier: for interactive creation of temporary flood barriers
 
 Interaktives Tool zur Bewertung des Starkregenrisikos in Städten und zur Beurteilung von Schutzmaßnahmen.
