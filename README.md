@@ -3,6 +3,11 @@ Open Source GIS-based Urban Pluvial floods and DRAINage evaluation tool.
 
 Interactive tool for urban pluvial flood risk assessment and evaluation of mitigation measures.
 Full description and instruction manual coming soon...
+Three version available:
+
+1. LID version: for the automatic implementation of LIDs into hydrodynamic model.
+2. Recession version: includes implementation of GebreEgziabher et al., 2020 for manhole recession
+3. FLood barrier: for interactive creation of temporary flood barriers
 
 Interaktives Tool zur Bewertung des Starkregenrisikos in Städten und zur Beurteilung von Schutzmaßnahmen.
 Ausführliche Beschreibung und Anleitungen folgt in Kürze
